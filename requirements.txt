@@ -1,0 +1,8 @@
+ngrok
+uvicorn
+python-dotenv
+fastapi
+pydantic
+numpy
+keras
+scikit-learn
