@@ -1,1 +1,1 @@
-# Addmission Prediction App using FastAPI
+# Admission Prediction App using FastAPI
